@@ -23,12 +23,11 @@ The dataset used includes features like:
 ## 📈 Output Visualizations
 
 ### 🔹 Correlation Heatmap / EDA Plot:
-![Chart 1](![image](https://github.com/user-attachments/assets/4fb454e1-e052-4ea8-8f72-5b32ee75f63d)
-)
+![Chart 1](![HousePrice Corr](https://github.com/user-attachments/assets/cb235bc4-1dd7-44a8-9660-8bec45278d57))
 
 ### 🔹 Actual vs Predicted Prices:
-![Chart 2](![image](https://github.com/user-attachments/assets/a62a032b-e0bb-4555-9294-4b160100d32a)
-)
+![Chart 2](![HousePrice Actual](https://github.com/user-attachments/assets/d2d0ca6f-bf6f-4264-954f-9347cecd1232))
+
 
 ## 📦 Libraries Used
 
